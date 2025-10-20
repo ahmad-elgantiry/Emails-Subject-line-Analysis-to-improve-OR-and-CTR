@@ -1,4 +1,4 @@
-Sent_Date,Day_of_week,Category name,Main_Vs_REM,Subject,Sendings,OR _%,Length_Of_subject,Personalization,Emoji,Urgency,Tone,Price_or_Discount,Imperative_Tone ,Product,Month,Letter_Count
+Sent_Date,Day_of_week,Category name,Main_Vs_REM,Subject,Sendings,OR_%,Length_Of_subject,Personalization,Emoji,Urgency,Tone,Price_or_Discount,Imperative_Tone ,Product,Month,Letter_Count
 11/1/2024,Wednesday,NL Interval,MAIN,Premiumtryck upp till 78% rabatt!,333,0.2342,0,0,0,0,0,1,0,1,11,25
 8/2/2024,Wednesday,NL Interval,MAIN,Dekorativ inredning för hemmet till de bästa priset,246,0.2927,0,0,0,0,0,0,0,1,8,42
 12/7/2024,Thursday,NL Final,MAIN,Mystisk försäljning: Vad är din hemliga rabatt? &#x1f92b;,8985,0.1028,0,0,1,0,1,0,0,0,12,36
