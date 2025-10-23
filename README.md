@@ -1,8 +1,10 @@
-This project includes 
-- the initial excel file of all data 
-- Data of Promotional emails only , I get it by filtering all data excel file 
-- Data used for the prediction models ( containing both historical data and engineered data )
-- Data of engineered features, and a Metadata file explaining these features  
-- Code for explanatory data analysis 
-- Code for model to predict OR%
-- Code for model to predict CTR%
+what all these files  in this repo ?
+all data excel file 
+Model Data csv file ( cleaned and filterd and ready for modeling )
+subject_features_data ( including each subject_line features )
+Meta Data (explaining categories of subject_line feature)
+BionomialGLM model ( to predict OR%)
+Light GBM model ( to predict OR %)
+important to notice ( I did all Data cleanning , validation , extracting features ) in excel sheets itself ( to make the code more cleaner in the notebooks  )
+
+
