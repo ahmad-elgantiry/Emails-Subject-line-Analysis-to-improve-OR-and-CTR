@@ -31,6 +31,9 @@ All data cleaning, validation, and feature extraction were performed directly in
 - **LightGBM Model:**  
   Predicts **Email Open Rate (OR%)** using a gradient boosting approach that captures nonlinear relationships and interactions.
 
+  - **Linear Mixed  Model:**  
+  Predicts **Email Open Rate (OR%)** captures variability across campaign groups while modeling open rate as a continuous outcome.
+
 ---
 
 ### **3. Notes**
